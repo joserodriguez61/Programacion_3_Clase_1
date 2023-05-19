@@ -7,7 +7,7 @@ namespace Repaso_Conceptos.Herencia
         {
             
         }
-        private string color;
+        public string color;
         public void Comer() {
             Console.WriteLine("El animal come");
         }
